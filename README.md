@@ -1,44 +1,66 @@
-# Intern-Portal
- Full Stack Job Portal App using ReactJS, Express, NodeJS and MongoDB.
-Intern-Portal
-Full Stack Job Portal App using ReactJS, Express, NodeJS and MongoDB.
+# 🌐 Intern-Portal
 
-#📌 **Features**
+A **Full Stack Job Portal Application** built with ReactJS, Express, NodeJS, and MongoDB.  
+This platform connects **applicants** with **companies**, offering features like job postings, applications, and authentication.
 
-###For Applicants
-Browse and search job postings.
-Filter jobs by category.
-View detailed job descriptions.
-Apply to jobs and track application status.
+---
 
+## 📌 Features
 
-###For Companies
-Create and manage company profiles.
-Post new job openings.
-View and manage applications.
+### 👨‍💼 For Applicants
+- Browse and search job postings
+- Filter jobs by category
+- View detailed job descriptions
+- Apply to jobs and track application status
 
+### 🏢 For Companies
+- Create and manage company profiles
+- Post new job openings
+- View and manage applications
 
-###Authentication
-Secure user login and registration.
-Session handling using JWT.
+### 🔒 Authentication
+- Secure user login and registration
+- Session handling using JWT (JSON Web Tokens)
 
-##Tech Stack
+---
 
-###Frontend
-React (with Vite bundler)
-Tailwind CSS
-Axios for API requests
+## 🛠 Tech Stack
 
-###Backend
-Node.js & Express
-MongoDB (with Mongoose ODM)
-Cloudinary for media uploads
+### ⚡ Frontend
+- [React](https://react.dev/) (with [Vite](https://vitejs.dev/) bundler)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Axios](https://axios-http.com/) for API requests
 
+### ⚙️ Backend
+- [Node.js](https://nodejs.org/) & [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/) with [Mongoose](https://mongoosejs.com/) ODM
+- [Cloudinary](https://cloudinary.com/) for media uploads
 
-###Project Structure
-jobportal-yt-main/ │ ├── backend/ # Express.js backend │ ├── controllers/ # Business logic │ ├── models/ # MongoDB models │ ├── routes/ # API endpoints │ ├── middlewares/ # Authentication & file handling │ ├── utils/ # Helper functions (DB, Cloudinary) │ ├── package.json # Backend dependencies │ └── index.js # Server entry point │ └── frontend/ # React frontend ├── src/ # React source code │ ├── components/ # UI components │ └── assets/ # Images and static files ├── package.json # Frontend dependencies └── vite.config.js # Vite configuration
+---
+jobportal-yt-main/
+│
+├── backend/ # Express.js backend
+│ ├── controllers/ # Business logic
+│ ├── models/ # MongoDB models
+│ ├── routes/ # API endpoints
+│ ├── middlewares/ # Authentication & file handling
+│ ├── utils/ # Helper functions (DB, Cloudinary)
+│ ├── package.json # Backend dependencies
+│ └── index.js # Server entry point
+│
+└── frontend/ # React frontend
+├── src/
+│ ├── components/ # UI components
+│ └── assets/ # Images and static files
+├── package.json # Frontend dependencies
+└── vite.config.js # Vite configuration
 
-###Prerequisites
-Node.js (v16+ recommended)
-MongoDB (local or Atlas)
-Cloudinary account (for file uploads)
+## 🔧 Prerequisites
+
+Before running the project, ensure you have:
+
+- [Node.js](https://nodejs.org/) (v16+ recommended)
+- [MongoDB](https://www.mongodb.com/) (local or Atlas cluster)
+- [Cloudinary](https://cloudinary.com/) account (for file uploads)
+## 📂 Project Structure
+
