@@ -37,7 +37,8 @@ This platform connects **applicants** with **companies**, offering features like
 - [Cloudinary](https://cloudinary.com/) for media uploads
 
 ---
-jobportal-yt-main/
+## 📂 Project Structure
+jobportal/
 │
 ├── backend/ # Express.js backend
 │ ├── controllers/ # Business logic
@@ -62,5 +63,5 @@ Before running the project, ensure you have:
 - [Node.js](https://nodejs.org/) (v16+ recommended)
 - [MongoDB](https://www.mongodb.com/) (local or Atlas cluster)
 - [Cloudinary](https://cloudinary.com/) account (for file uploads)
-## 📂 Project Structure
+
 
