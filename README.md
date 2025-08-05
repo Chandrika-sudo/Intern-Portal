@@ -22,6 +22,10 @@ This platform connects **applicants** with **companies**, offering features like
 - Secure user login and registration
 - Session handling using JWT (JSON Web Tokens)
 
+### Images
+Images(https://github.com/user-attachments/assets/dca6576e-9d4f-49c8-9d4e-e5df29d1571a)
+
+
 ---
 
 ## 🛠 Tech Stack
