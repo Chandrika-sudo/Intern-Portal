@@ -21,10 +21,13 @@ This platform connects **applicants** with **companies**, offering features like
 ### 🔒 Authentication
 - Secure user login and registration
 - Session handling using JWT (JSON Web Tokens)
-
+-----
 ### Images
-Images(https://github.com/user-attachments/assets/dca6576e-9d4f-49c8-9d4e-e5df29d1571a)
-
+![Image 1](https://github.com/user-attachments/assets/7cce39f9-5ffb-4f74-ad32-ab4f2f2dd1b7)
+![Image 2](https://github.com/user-attachments/assets/051b6cef-fb4b-4746-8a34-b45427205e3a)
+![Image 3](https://github.com/user-attachments/assets/9857bf74-8be8-4950-8e6a-5141d91ece43)
+<img width="1919" height="767" alt="Image 4" src="https://github.com/user-attachments/assets/4408c82e-d964-4302-afaa-94414b44cc55" />
+<img width="1358" height="453" alt="Image 5" src="https://github.com/user-attachments/assets/f0cb9295-ffd4-4395-b363-64c3ced29e82" />
 
 ---
 
